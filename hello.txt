@@ -1,0 +1,3 @@
+Today is wednesday.
+Month is december.
+Year is 2020.
