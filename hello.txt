@@ -1,3 +1,4 @@
 Today is wednesday.
 Month is december.
 Year is 2020.
+Find the astrologer who said 2020 is good year
